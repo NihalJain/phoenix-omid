@@ -153,13 +153,13 @@
 
         <!-- 3rd-Party Library Versioning -->
         <hbase.version>2.4.13</hbase.version>
-        <hadoop.version>3.1.4</hadoop.version>
+        <hadoop.version>3.2.4</hadoop.version>
         <phoenix.thirdparty.version>2.0.0</phoenix.thirdparty.version>
         <guice.version>5.1.0</guice.version>
         <testng.version>6.10</testng.version>
         <slf4j.version>1.7.36</slf4j.version>
         <log4j2.version>2.18.0</log4j2.version>
-        <netty4.version>4.1.86.Final</netty4.version>
+        <netty4.version>4.1.94.Final</netty4.version>
         <!-- com.google repo will be used except on Aarch64 platform. -->
         <protobuf.group>com.google.protobuf</protobuf.group>
         <protobuf-java.version>2.5.0</protobuf-java.version>
@@ -183,7 +183,7 @@
         <google.findbugs.version>3.0.1</google.findbugs.version>
         <commons-pool2.version>2.4.2</commons-pool2.version>
         <commons-lang3.version>3.12.0</commons-lang3.version>
-        <bouncycastle.version>1.60</bouncycastle.version>
+        <bouncycastle.version>1.70</bouncycastle.version>
 
         <!-- Maven Plugin Versioning -->
         <maven-assembly-plugin-version>3.1.1</maven-assembly-plugin-version>
